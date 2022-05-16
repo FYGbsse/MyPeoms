@@ -9,4 +9,16 @@ indigo[I]
 violet[V I o L e t]
 
 This is my poem in main
+The rainbow
+
+ Red [R]
+orange [O]
+yellow [Y]
+green[G]
+blue[B]
+indigo[I]
+violet[V I o L e t]
+
+This is my poem in main
+
 
